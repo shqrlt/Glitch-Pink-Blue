@@ -63,7 +63,7 @@
 	--gap-vertical: 20px;
 	--time-anim: 5s;
 	--blend-mode-1: none;
-	--blend-mode-2: saturation;
+	--blend-mode-2: overlay;
 	--blend-mode-3: overlay;
 	--blend-mode-4: overlay;
 	--blend-mode-5: none;
